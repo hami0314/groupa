@@ -1,6 +1,6 @@
 Hi all
 Lets edit this file 
-and try commit, push pull 
+i want conflict 
 
 hi
 HI XINYUN
